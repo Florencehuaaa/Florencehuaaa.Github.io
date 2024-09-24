@@ -3,8 +3,8 @@ layout: post
 title: Intership Experience
 subtitle: Advertising 👉 Major Tech Companies
 cover-img: /assets/img/IMG_3671.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/IMG_3671.jpg
+share-img: /assets/img/IMG_3671.jpg
 ---
 
 💗Taobao (China) Software Co., Ltd
