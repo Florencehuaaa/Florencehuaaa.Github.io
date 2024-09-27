@@ -28,7 +28,7 @@ share-img: /assets/img/IMG_3671.jpg
     <li><strong>Data analysis</strong></li>
     <li><strong>Project Management</strong></li>
   </ul>
-  <img src="/assets/img/assets/img/u=3770859367,3437016421&fm=253&fmt=auto&app=138&f=JPEG.jpg" alt="NetEase Internship" style="float: right; width: 25%; margin-left: 20px;">
+  <img src="/assets/img/assets/img/u=3770859367.jpg" alt="NetEase Internship" style="float: right; width: 25%; margin-left: 20px;">
 </div>
 
 
