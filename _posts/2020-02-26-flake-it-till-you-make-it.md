@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/IMG_3671.jpg
 share-img: /assets/img/IMG_3671.jpg
 ---
 
-## 💗Taobao (China) Software Co., Ltd
+## Taobao (China) Software Co., Ltd
 💼Product Director Intern  
 🕤2023.12-2024.03
 <div style="overflow: auto;">
@@ -19,7 +19,7 @@ share-img: /assets/img/IMG_3671.jpg
   <img src="/assets/img/IMG_3660.jpg" alt="Taobao Internship" style="float: right; width: 25%; margin-left: 20px;">
 </div>
 
-## 💗NetEase Cloud Music Technology Co., Ltd
+## NetEase Cloud Music Technology Co., Ltd
 💼Event operations Intern  
 🕤2023.10-2024.12
 <div style="overflow: auto;">
@@ -28,11 +28,11 @@ share-img: /assets/img/IMG_3671.jpg
     <li><strong>Data analysis</strong></li>
     <li><strong>Project Management</strong></li>
   </ul>
-  <img src="/assets/img/assets/img/u=3770859367.jpg" alt="NetEase Internship" style="float: right; width: 25%; margin-left: 20px;">
+  <img src="/assets/img/u=3770859367.jpg" alt="NetEase Internship" style="float: right; width: 25%; margin-left: 20px;">
 </div>
 
 
-## 💗Taobao (China) Software Co., Ltd
+## Taobao (China) Software Co., Ltd
 💼Live operations Intern  
 🕤2023.06-2023.09
 <div style="overflow: auto;">
