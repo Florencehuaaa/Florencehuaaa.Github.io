@@ -7,10 +7,8 @@ thumbnail-img: /assets/img/IMG_3671.jpg
 share-img: /assets/img/IMG_3671.jpg
 ---
 
-💗Taobao (China) Software Co., Ltd
-
+## 💗Taobao (China) Software Co., Ltd
 💼Product Director Intern
-
 🕤2023.12-2024.03
 
 🌟**Demand research**: in view of the optimization and improvement of the downward capacity of Taobao's live heat wave engine PC/mobile products, the demand of each node in the selection-hanging-broadcast-transaction chain of the anchor is investigated, and the feedback of the anchor and the operation soundtrack is counted. Daily monitoring of the selection data of each port and index analysis, scanning of competition trends, sorting out optimization points, and forming product functional requirements.
