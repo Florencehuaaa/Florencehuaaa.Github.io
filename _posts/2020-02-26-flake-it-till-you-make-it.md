@@ -17,7 +17,7 @@ share-img: /assets/img/IMG_3671.jpg
     <li><strong>Product Design</strong></li>
     <li><strong>Product Operation</strong></li>
   </ul>
-  <img src="/assets/img/taobao.jpg" alt="Taobao Internship" style="float: right; width: 25%; margin-left: 20px;">
+  <img src="/assets/img/IMG_3660.jpg" alt="Taobao Internship" style="float: right; width: 25%; margin-left: 20px;">
 </div>
 
 
@@ -32,7 +32,7 @@ share-img: /assets/img/IMG_3671.jpg
     <li><strong>Data analysis</strong></li>
     <li><strong>Tool Design</strong></li>
   </ul>
-  <img src="/assets/img/taobao.jpg" alt="Taobao Internship" style="float: right; width: 25%; margin-left: 20px;">
+  <img src="/assets/img/IMG_3660.jpg" alt="Taobao Internship" style="float: right; width: 25%; margin-left: 20px;">
 </div>
 
 
